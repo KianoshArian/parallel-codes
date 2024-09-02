@@ -1,0 +1,9 @@
+serial:
+min: 1607
+index: 340197
+parallel:
+min: 1607
+index: 340197
+serial time: 2440
+parallel time: 1031
+speedup: 2.36663

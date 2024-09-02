@@ -1,0 +1,7 @@
+serial:
+Mean: 499.279 Standard Deviation: 288.678
+parallel:
+Mean: 499.293 Standard Deviation: 288.728
+serial time: 36561
+parallel time: 3053
+speed up: 11.9754
